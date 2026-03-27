@@ -91,9 +91,6 @@ https://down.mptext.top/api/public/v1/download
 ### + [qiqing-liuyu（七情六欲）](https://github.com/Lniosy/qiqing-liuyu)
 抓取文章后，用七情六欲 skill 进行内容分析、去 AI 味、提炼要点、改写成有人味的文章。
 
-### + [SteamWriterSkill](https://github.com/Lniosy/SteamWriterSkill)
-如果文章是游戏相关内容，可以配合 Steam 文章写作 skill 进行二次创作。
-
 ### + AI 对话/总结
 抓取纯文本或 Markdown 格式后，直接喂给 AI 做内容分析、摘要、翻译、改写。
 
